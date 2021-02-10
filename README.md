@@ -1,2 +1,2 @@
 # Newton-s-Cradle
-In This Project, You Will Have To Practice And Apply What You Have Learnt In The Class And Create A Newton’s Cradle Using Constrained Bodies.
+Simulation of Newton's Cradle in Unity, followed by an AR view of the same. The cradle's model was made in blender.
